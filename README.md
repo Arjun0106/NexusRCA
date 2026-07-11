@@ -181,4 +181,4 @@ NexusRCA aims to evolve from an AI-powered Root Cause Analysis solution into a c
 
 # Acknowledgements
 
-Developed as part of an AI Hackathon leveraging AMD AI infrastructure, DeepSeek-R1, ROCm, and modern open-source AI technologies to demonstrate enterprise-scale observability and intelligent incident management.
+Developed as part of TCS & AMD AI Hackathon leveraging AMD AI infrastructure, DeepSeek-R1, ROCm, and modern open-source AI technologies to demonstrate enterprise-scale observability and intelligent incident management.
